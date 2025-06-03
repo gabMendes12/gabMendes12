@@ -1,6 +1,6 @@
 # 👋 Hey everyone!  
 I'm Gabriel 🧠💻  
-"An ambitious person fascinated by **technology, coding, and design.**.
+An ambitious person fascinated by **technology, coding, and design.**.
 
 ---
 
@@ -55,6 +55,6 @@ I'm Gabriel 🧠💻
 > "Effortless is a myth." – *Roger Federer*
 
 
-- 🌱 I’m currently learning **python**, **C++***, **JavaScript**
+- 🌱 I’m currently learning **python**, **C++**, **JavaScript**
 - 👯 I’m looking to collaborate on **softwares development**
 - 🤔 I’m looking for help with **"Barrier-free innovation"**
