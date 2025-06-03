@@ -20,7 +20,7 @@ An ambitious person fascinated by **technology, coding, and design.**.
 [Visual Studio Code](https://code.visualstudio.com/)   
 [Python](https://www.python.org/)  
 [Arduino](https://www.arduino.cc/)  
-[LinkedIn](https://www.linkedin.com/in/gabriel-mendes-2b26bb367/)
+[LinkedIn](https://www.linkedin.com/in/gabriel-mendes-2b26bb367/)                 
 [instagram](https://www.instagram.com/gabmendes._/)
 
 ---
