@@ -14,17 +14,6 @@ An ambitious person fascinated by **technology, coding, and design.**.
 
 ---
 
-## 🌐 Where i am:
-
-[GitHub](https://github.com/gabMendes12)  
-[Visual Studio Code](https://code.visualstudio.com/)   
-[Python](https://www.python.org/)  
-[Arduino](https://www.arduino.cc/)  
-[LinkedIn](https://www.linkedin.com/in/gabriel-mendes-2b26bb367/)                 
-[instagram](https://www.instagram.com/gabmendes._/)
-
----
-
 ## 🧰 Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -59,3 +48,14 @@ An ambitious person fascinated by **technology, coding, and design.**.
 - 🌱 I’m currently learning **python**, **C++**, **JavaScript**
 - 👯 I’m looking to collaborate on **softwares development**
 - 🤔 I’m looking for help with **"Barrier-free innovation"**
+
+---
+
+## 🌐 Where i am:
+
+[GitHub](https://github.com/gabMendes12)  
+[Visual Studio Code](https://code.visualstudio.com/)   
+[Python](https://www.python.org/)  
+[Arduino](https://www.arduino.cc/)  
+[LinkedIn](https://www.linkedin.com/in/gabriel-mendes-2b26bb367/)                 
+[instagram](https://www.instagram.com/gabmendes._/)
