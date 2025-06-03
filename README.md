@@ -9,6 +9,7 @@ An ambitious person fascinated by **technology, coding, and design.**.
 🎓 I'm a **Computer Science student**  
 🛠️ I love creating with **Python**, **C++**, and **JavaScript**  
 🎯 committed on combining software with hardware for real-world impact
+
 ⚡ Fun fact: All my life, I’ve dreamed of becoming a designer — maybe my next degree...
 
 ---
