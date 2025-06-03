@@ -1,50 +1,34 @@
-# 👋 Hello humans!  
+# 👋 Hey everyone!  
 I'm Gabriel 🧠💻  
-A curious mind passionate about **technology, coding, and electronics**.
+"An ambitious person fascinated by **technology, coding, and design.**.
 
 ---
 
 ## 🚀 About Me
 
 🎓 I'm a **Computer Science student**  
-🛠️ I love creating with **Python**, **Arduino**, and **Unity**  
-📚 Currently learning **Flask**, **Bootstrap**, and building personal projects  
-🎯 Focused on combining software with hardware for real-world impact  
-⚡ Fun fact: I believe that even small ideas can spark big changes
+🛠️ I love creating with **Python**, **C++**, and **JavaScript**  
+🎯 committed on combining software with hardware for real-world impact
+⚡ Fun fact: All my life, I’ve dreamed of becoming a designer — maybe my next degree...
 
 ---
 
-## 💬 Ask Me About
-
-- 🕹️ Unity & Game Development  
-- 🐍 Python & Automation  
-- ⚙️ Arduino Projects  
-- 📦 Visual Studio / VS Code  
-- 🎓 Tips for Computer Science students
-
----
-
-## 🌐 How to Reach Me
+## 🌐 Where i am:
 
 [GitHub](https://github.com/gabMendes12)  
-[Visual Studio Code](https://code.visualstudio.com/)  
-[Unity](https://unity.com/)  
+[Visual Studio Code](https://code.visualstudio.com/)   
 [Python](https://www.python.org/)  
 [Arduino](https://www.arduino.cc/)  
-[Visual Studio](https://visualstudio.microsoft.com/)
-
-(You can add LinkedIn/Twitter/Medium here when you’re ready!)
+[LinkedIn](https://www.linkedin.com/in/gabriel-mendes-2b26bb367/)
+[instagram](https://www.instagram.com/gabmendes._/)
 
 ---
 
 ## 🧰 Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
@@ -65,25 +49,12 @@ A curious mind passionate about **technology, coding, and electronics**.
 ## 🛠️ Developer of
 
 - **Vida Pet** – A pet care organizer with Python
-- (Adicione seus projetos conforme forem surgindo)
 
 ---
 
-## 🤝 Contributor to
-
-- Projetos educacionais com Arduino e Python  
-- (Você pode listar contribuições futuras aqui)
-
----
-
-> “A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.” – *Albert Einstein*
+> "Effortless is a myth." – *Roger Federer*
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **python**, **C++***, **JavaScript**
+- 👯 I’m looking to collaborate on **softwares development**
+- 🤔 I’m looking for help with **"Barrier-free innovation"**
