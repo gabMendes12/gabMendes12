@@ -36,7 +36,7 @@ An ambitious person fascinated by **technology, coding, and design.**.
 
 ---
 
-## 🛠️ Developer of
+## 🛠️ My contributions
 
 - **Vida Pet** – A pet care organizer with Python
 [Vida PET](https://github.com/FialhoMath/FpTrabalho/blob/main/trabalhoFP%20(3).py)
